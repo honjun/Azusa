@@ -1,5 +1,7 @@
-
 # Azusa
+
+## 本fork仓库以被我替换成demo仓库
+[demo](https://www.hojun.cn/azusa/)
 
 [![Author](https://img.shields.io/badge/author-EYHN-blue.svg?style=flat-square)](https://delusion.coding.me)
 [![QQ](https://img.shields.io/badge/QQ-1106996185-blue.svg?style=flat-square)](http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes)
